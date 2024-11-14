@@ -1,0 +1,12 @@
+{
+    "sources": [
+        {
+            "url": "https://www.fitnastic.be/horaires",
+            "csv": "fitnastic_schedule.csv"
+        },
+        {
+            "url": "https://example.com/source2",
+            "csv": "source2_schedule.csv"
+        }
+    ]
+}
